@@ -1,0 +1,25 @@
+{
+  "name": "borschik-tech-js-coffee",
+  "description": "CoffeeScript borschik tech",
+  "version": "0.0.1",
+  "homepage": "http://github.com/bem/borschik-tech-js-coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bem/borschik-tech-js-coffee.git"
+  },
+  "main": "inde.js",
+  "dependencies": {
+    "coffee-script": "1.6.x"
+  },
+  "devDependencies": {
+    "borschik": "git://github.com/bem/borschik.git#rc-0.4",
+    "mocha": "1.12.x"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -u bdd -R spec"
+  },
+  "engines": [
+    "node >= 0.6.0"
+  ],
+  "licence": "MIT"
+}
