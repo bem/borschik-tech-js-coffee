@@ -12,7 +12,7 @@
     "coffee-script": "1.6.x"
   },
   "devDependencies": {
-    "borschik": "git://github.com/bem/borschik.git#rc-0.4",
+    "borschik": "0.4.x",
     "mocha": "1.12.x"
   },
   "scripts": {
