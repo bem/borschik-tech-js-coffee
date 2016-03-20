@@ -2,10 +2,10 @@
   "name": "borschik-tech-js-coffee",
   "description": "CoffeeScript borschik tech",
   "version": "0.0.1",
-  "homepage": "http://github.com/bem/borschik-tech-js-coffee",
+  "homepage": "http://github.com/borschik/borschik-tech-js-coffee",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bem/borschik-tech-js-coffee.git"
+    "url": "git://github.com/borschik/borschik-tech-js-coffee.git"
   },
   "main": "inde.js",
   "dependencies": {
